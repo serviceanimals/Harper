@@ -10,7 +10,7 @@ The picture above was taken five days after the one below it.  The only topicals
 
 The picture above was taken eighteen days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  Food as medicine plus her own canine companion are employed in this battle to control her mange too.  Do you see the radical improvement in Harper's coat?
 
-[![Harper+Chopper20200424.png](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper20200424.png)](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper20200424.png)
+[![Chopper+Harper20200424.png](https://github.com/serviceanimals/Harper/raw/master/Chopper+Harper20200424.png)](https://github.com/serviceanimals/Harper/raw/master/Chopper+Harper20200424.png)
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
