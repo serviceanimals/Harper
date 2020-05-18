@@ -8,7 +8,7 @@ The top picture was taken five days after the one below it.  The only topicals t
 
 [![Harper20200511.png](https://github.com/serviceanimals/Harper/raw/master/Harper20200511.png)](https://github.com/serviceanimals/Harper/raw/master/Harper20200511.png)
 
-[![Harper+Chopper.20200424.png](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper.20200424.png)](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper.20200424.png)
+[![Harper+Chopper20200424.png](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper20200424.png)](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper20200424.png)
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
