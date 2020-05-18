@@ -4,9 +4,11 @@
 
 [![Harper20200516.png](https://github.com/serviceanimals/Harper/raw/master/Harper20200516.png)](https://github.com/serviceanimals/Harper/raw/master/Harper20200516.png)
 
-The top picture was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  Food as medicine plus her own canine companion are employed in this battle to control her mange too.  Do you see the radical improvement in Harper's coat?
+The picture above was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  Food as medicine plus her own canine companion are employed in this battle to control her mange too.  Do you see the radical improvement in Harper's coat?
 
 [![Harper20200511.png](https://github.com/serviceanimals/Harper/raw/master/Harper20200511.png)](https://github.com/serviceanimals/Harper/raw/master/Harper20200511.png)
+
+The picture above was taken eighteen days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  Food as medicine plus her own canine companion are employed in this battle to control her mange too.  Do you see the radical improvement in Harper's coat?
 
 [![Harper+Chopper20200424.png](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper20200424.png)](https://github.com/serviceanimals/Harper/raw/master/Harper+Chopper20200424.png)
 
