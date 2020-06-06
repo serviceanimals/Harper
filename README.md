@@ -2,6 +2,9 @@
 
 # [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
 
+Harper's coat is getting better!  She ran through the rain and the tall grass (chest high) yesteday. Her hair growth is astounding!
+
+
 [![riverbankHarper20200521.jpg](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)
 
 The picture above was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange too.  Do you see the improvement in Harper's coat?
