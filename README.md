@@ -2,6 +2,8 @@
 
 # [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
 
+[![00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/00001IMG_00001_BURST1590934238112_COVER.jpg)
+
 Harper's coat is getting better!  She ran through the rain and the tall grass (chest high) yesterday. Her hair growth is astounding!
 
 
