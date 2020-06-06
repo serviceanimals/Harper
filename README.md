@@ -2,7 +2,7 @@
 
 # [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
 
-Harper's coat is getting better!  She ran through the rain and the tall grass (chest high) yesteday. Her hair growth is astounding!
+Harper's coat is getting better!  She ran through the rain and the tall grass (chest high) yesterday. Her hair growth is astounding!
 
 
 [![riverbankHarper20200521.jpg](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)
