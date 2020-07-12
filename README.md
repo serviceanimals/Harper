@@ -4,8 +4,7 @@
 
 [![00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/00001IMG_00001_BURST1590934238112_COVER.jpg)
 
-Harper's coat is getting better!  She ran through the rain and the tall grass (chest high) yesterday.  Her coat is getting better!
-
+Harper riding a city bus.
 
 [![riverbankHarper20200521.jpg](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)
 
