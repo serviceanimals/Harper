@@ -2,11 +2,11 @@
 
 # [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
 
-[![00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/00001IMG_00001_BURST1590934238112_COVER.jpg)
+[![imgs/00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)
 
 Harper riding a city bus.
 
-[![riverbankHarper20200521.jpg](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)](https://github.com/serviceanimals/Harper/raw/master/riverbankHarper20200521.jpg)
+[![imgs/riverbankHarper20200521.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/riverbankHarper20200521.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/riverbankHarper20200521.jpg)
 
 The picture above was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
@@ -18,7 +18,7 @@ The picture above was taken five days after the one below it.  The only topicals
 
 The picture above was taken eighteen days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
-[![Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
+[![imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
