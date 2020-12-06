@@ -1,6 +1,6 @@
-<link rel="prerender" href="https://github.com/serviceanimals/Harper">
+<link rel="prerender" href="https://github.com/serviceanimals/Harper/">
 
-# [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
+# [serviceanimals/Harper RIP ](https://github.com/serviceanimals/Harper/)
 
 [![imgs/00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)
 
@@ -10,7 +10,7 @@ Harper riding a city bus.
 
 The picture above was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
-[![runningHarper20200516.png](https://github.com/serviceanimals/Harper/raw/master/runningHarper20200516.png)](https://github.com/serviceanimals/Harper/raw/master/runningHarper20200516.png)
+[![imgs/runningHarper20200516.png](https://github.com/serviceanimals/Harper/raw/master/imgs/runningHarper20200516.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/runningHarper20200516.png)
 
 The picture above was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
