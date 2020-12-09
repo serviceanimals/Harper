@@ -2,7 +2,7 @@
 
 # [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
 
-# Service dog Natolie Harper was shot dead at my side at 202012011630 by Flint City Police while using the MTA downtown. She is dead. She was a good dog. She was a good worker who was killed while working. Can you please assist?
+# Service dog Natolie Harper Rausty was shot dead at my side at 202012011630 by Flint City Police while using the MTA downtown. She is dead. She was a good dog. She was a good worker who was killed while working. Can you please assist?
 
 [![imgs/00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)
 
