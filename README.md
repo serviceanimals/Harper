@@ -7,7 +7,7 @@
 My personal water quality specialist, Service dog Natolie Harper Rausty was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog. She was an exceptional coder and skilled worker who was killed while working. Can you please assist?
 
 Why was Harper a great water quality specialist?
-1. She would not forge data like personel did!
+1. She would not forge data like city employed personel did!
 1. She drank good water.
 
 [![imgs/00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)
