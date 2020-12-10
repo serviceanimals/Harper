@@ -8,7 +8,7 @@ My personal water quality specialist, Service dog Natolie Harper Rausty was shot
 
 Why was Harper a great water quality specialist?
 1. She would not forge data like city employed personel did!  Why were the forging personel set free @no cost?
-1. She drank good water.
+1. She drank good water.  She would NOT drink tainted water?
 
 [![imgs/00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)
 
