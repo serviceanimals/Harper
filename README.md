@@ -2,7 +2,7 @@
 
 # [serviceanimals/Harper](https://github.com/serviceanimals/Harper/)
 
-# Service dog Natolie Harper Rausty was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.
+# Service dog [Natolie Harper Rausty](Why was my water qualty specialist https://serviceanimals.github.io/Harper/ shot dead by Flin City Michigan USA police?) was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.
 
 My personal water quality specialist (water offered by me; distilled, +filtered well water, +onTapWater), Service dog Natolie Harper Rausty was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog. She was an exceptional coder and skilled worker who was killed while working. Can you please assist?
 
