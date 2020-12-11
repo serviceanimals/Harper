@@ -10,9 +10,7 @@ Why was Harper a great water quality specialist?
 
 [![imgs/gifs/20200731_094412.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)
 
-Harper riding a city bus.
-
-How do you make a superb water quality specialist from a dog?
+Harper riding a city bus.  How do you make a superb water quality specialist from a dog?
 
 1.  Ensure that all of its bowls are made of glass.
 1.  Fill the bowls with different kinds of water, milk (Michigan PBB milk contamination incident) and food.
