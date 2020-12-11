@@ -8,22 +8,18 @@ Why was Harper a great water quality specialist?
 1. She would not forge data like city employed personel did!  Why were the forging personel set free @nocost?  Is this why my friend canine Harper is not among us?
 1. She would drink good water.  She would NOT drink tainted water.
 
-[![imgs/00001IMG_00001_BURST1590934238112_COVER.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/00001IMG_00001_BURST1590934238112_COVER.jpg)
+[![imgs/gifs/20200731_094412.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)
 
 Harper riding a city bus.
-
-[![imgs/gifs/20200731_094412.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)
 
 How do you make a superb water quality specialist from a dog?
 
 1.  Ensure that all of its bowls are made of glass.
 1.  Fill the bowls with different kinds of water, milk (Michigan PBB milk contamination incident) and food.
 
-[![imgs/gifs/20200731_094412.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200731_094412.gif)
+[![imgs/gifs/20200827_202438.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)
 
 [![imgs/gifs/20200801_113933.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200801_113933.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200801_113933.gif)
-
-[![imgs/gifs/20200827_202438.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
