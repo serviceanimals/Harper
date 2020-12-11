@@ -2,7 +2,7 @@
 
 # [serviceanimals/](https://github.com/serviceanimals/serviceanimals.github.io)[Harper](https://github.com/serviceanimals/Harper)
 
-My personal water quality specialist (water offered by me; distilled, +filtered well water, +onTapWater), Service dog Natolie Harper was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
+My personal water quality specialist (water offered by me; distilled, +filtered well water, +onTapWater), Service dog [Natolie Harper](https://github.com/serviceanimals/Harper)was shot dead with two slugs while working at my side on December 1st 2020 at 1630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
 
 Why was Harper a great water quality specialist?
 1. She would not forge data like city employed personel did!  Why were the forging personel set free @nocost?  Is this why my friend canine Harper is not among us?
