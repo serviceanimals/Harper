@@ -19,7 +19,11 @@ How do you make a superb water quality specialist from a dog?
 
 [![imgs/gifs/20200827_202438.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)
 
+Harper playing in the Flint River.  Please note the color of the river.  This awful coloration and the missing fish are inedible signs can be changed in a very short of time.  Do you have an aquarium at home?  Does it have an aerator?  There is a balance between aerobic and anaerobic microbial life.  Aeration helps the aerobic life thrive. 
+
 [![imgs/gifs/20200801_113933.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200801_113933.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200801_113933.gif)
+
+Harper at leasure enjoying one of her leasure activities, trainspotting.
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
