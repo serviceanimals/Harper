@@ -4,7 +4,7 @@
 
 I have been using the Flint MTA in USA Michigan regularly since 2013 with my service dogs.  On December 1st at 4pm I was attempting to transfer buses downtown with my service dog [Harper](https://serviceanimals.github.io/Harper/).  I was denied entry for no valid reason.  Other than discrimination, paid leave (Factoring paid leave into Standing && Intimidating smaller stanced sentinent being) comes to mind as well as simple, "You can walk with your dog, but I cannot!"
 
-Service dog Harper's primary task was mobility aid.  The events that happened at the Fint MTA downtown when I was experiencing them felt completely unreal and detached from points in time.  The [Flint MTA](https://mtaflint.org/) should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
+Service dog Harper's primary task was mobility aid.  The events that happened at the Flint MTA downtown when I was experiencing them felt completely unreal and detached from points in time.  The [Flint MTA](https://mtaflint.org/) should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
 
 # She was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.  Why was my water quality specialist [Service Dog Natolie Harper](https://serviceanimals.github.io/Harper) shot dead by Flint City Police in Michigan USA? 
 
