@@ -2,7 +2,8 @@
 
 # [serviceanimals/](https://github.com/serviceanimals/serviceanimals.github.io)[Harper](https://github.com/serviceanimals/Harper)
 
-I have been using the Flint Michigan MTA regularly since 2013 with my service dogs.  On December 1st at 4pm I was attempting to transfer buses downtown with my service dog [Harper](https://serviceanimals.github.io/Harper/).  I was denied entry for no valid reason.  Other than discrimination, paid leave comes to mind..
+I have been using the Flint Michigan MTA regularly since 2013 with my service dogs.  On December 1st at 4pm I was attempting to transfer buses downtown with my service dog [Harper](https://serviceanimals.github.io/Harper/).  I was denied entry for no valid reason.  Other than discrimination, paid leave comes to mind.
+Factoring this to Standing && Intimidating smaller stanced sentinent being.
 
 The events that happened at the Fint MTA downtown later when I was experiencing them felt completely unreal and detached from points in time.  The [Flint MTA](https://mtaflint.org/) should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
 
