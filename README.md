@@ -2,6 +2,10 @@
 
 # [serviceanimals/](https://github.com/serviceanimals/serviceanimals.github.io)[Harper](https://github.com/serviceanimals/Harper)
 
+I have been using the Flint MTA regularly since 2013 with my service dogs.  On December 1st at 4pm I was attempting to transfer buses downtown with my service dog Harper https://serviceanimals.github.io/Harper/.  I was denied entry for no valid reason other than discrimination.  
+
+The events that happened at the MTA downtown later are completely unreal.  The https://mtaflint.org/ should have this entire event on multiple surveillance cameras as well as my years of commuting by bus with my dogs in Flint.  Harper was shot across the street after I was told to leave.  We had left the transit center as requested.
+
 # She was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.  Why was my water quality specialist [Service Dog Natolie Harper](https://serviceanimals.github.io/Harper) shot dead by Flint City Police in Michigan USA? 
 
 My personal water quality specialist (water offered by me; distilled, +filtered well water, +onTapWater), Service dog Natolie Harper was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
@@ -22,7 +26,7 @@ The picture above was taken five days after the one below it.  The only topicals
 
 The picture above was taken five days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
-[![sittingHarper20200511.png](https://github.com/serviceanimals/Harper/raw/master/sittingHarper20200511.png)](https://github.com/serviceanimals/Harper/raw/master/sittingHarper20200511.png)
+[![imgs/sittingHarper20200511.png](https://github.com/serviceanimals/Harper/raw/master/imgs/sittingHarper20200511.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/sittingHarper20200511.png)
 
 The picture above was taken eighteen days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
