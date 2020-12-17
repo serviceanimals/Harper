@@ -17,7 +17,7 @@ Harper riding a city bus.  In a city like Flint Michigan that is suffering from 
 
 [![imgs/gifs/20200827_202438.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200827_202438.gif)
 
-Harper playing in the Flint River.  Please note the color of the river.  I truly believe that this awful coloration and the missing **fish are inedible** signs can be changed in the short of time.  Do you have an aquarium at home?  Does it have an aerator?  There is a balance between aerobic and anaerobic microbial life.  Aeration helps the aerobic life thrive. 
+Harper playing in the Flint River.  Please note the color of the river.  This unpleasant septic tank coloration and the missing **fish are inedible** signs can be changed in the short of time.  Do you have an aquarium at home?  Does it have an aerator?  There is a balance between aerobic and anaerobic microbial life.  Aeration helps aerobic life thrive. 
 
 [![imgs/gifs/20200801_113933.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200801_113933.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/20200801_113933.gif)
 
