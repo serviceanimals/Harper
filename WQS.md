@@ -25,7 +25,7 @@ Harper at leasure enjoying one of her leasure activities, trainspotting.
 
 [![imgs/gifs/202011121035.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)
 
-Harper and her canine companion Smiley.
+Harper and her young canine companion [Smiley](https://serviceanimals.github.io/Smiley/) on November 12 2020 at 1035.
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
