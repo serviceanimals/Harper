@@ -1,4 +1,4 @@
-<link rel="prerender" href="https://github.com/serviceanimals/Harper/">
+<link rel="prerender" href="https://serviceanimals.github.io/Harper/">
 
 # [serviceanimals/](https://github.com/serviceanimals/serviceanimals.github.io)[Harper](https://github.com/serviceanimals/Harper)
 

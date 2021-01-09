@@ -23,6 +23,10 @@ Harper playing in the Flint River.  Please note the color of the river.  This un
 
 Harper at leasure enjoying one of her leasure activities, trainspotting.
 
+[![imgs/gifs/202011121035.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)
+
+Harper and her canine companion Smiley.
+
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
 [Pulls at this repository](https://github.com/serviceanimals/Harper/pulls)
