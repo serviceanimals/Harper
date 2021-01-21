@@ -1,3 +1,3 @@
-language learner
+Language Learner
 A dog can be a good language learner.
-<!-- LL.md README.md EOF -->
+<!-- LL.md EOF -->
