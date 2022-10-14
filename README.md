@@ -1,4 +1,6 @@
-<link rel="prerender" href="https://serviceanimals.github.io/Harper/">
+link rel="prerender" href="https://serviceanimals.github.io/Harper/">
+
+[![Harper freeway](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/Screenshot_20221013-211722.png)](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/vids/20200814_142329.mp4)
 
 [![imgs/20200728_105448.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)
 
