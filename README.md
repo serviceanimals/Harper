@@ -1,7 +1,5 @@
 <link rel="prerender" href="https://serviceanimals.github.io/Harper/">
 
-[![Harper freeway](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/Screenshot_20221013-211722.png)](https://raw.githubusercontent.com/serviceanimals/Harper/master/20200814_142329.mp4)
-
 [![imgs/20200728_105448.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)
 
 # [Harper](https://github.com/serviceanimals/Harper/)
@@ -41,6 +39,8 @@ The picture above was taken five days after the one below it.  The only topicals
 The picture above was taken eighteen days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Harper's mange.  Do you see the improvement in Harper's coat?
 
 [![imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
+
+[![Harper freeway](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/Screenshot_20221013-211722.png)](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/vids/20200814_142329.mp4)
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
