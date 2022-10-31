@@ -7,7 +7,7 @@
 [![imgs/20201016_092130.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)
 
 # [serviceanimals/](https://serviceanimals.github.io/)[Harper](https://serviceanimals.github.io/Harper)
-# [serviceanimals/](https://serviceanimals.github.io/)[Harper](https://serviceanimals.github.io/Harper)[paychecktime](https://serviceanimals.github.io/Harperi/paychecktime.md)
+# [serviceanimals/](https://serviceanimals.github.io/)[Harper](https://serviceanimals.github.io/Harper)[paychecktime](https://serviceanimals.github.io/Harperi/paychecktime)
 
 My personal [water quality specialist](WQS.md) (water offered by me; distilled, +filtered well water, +onTapWater), Service dog Natalie Harper was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
 
