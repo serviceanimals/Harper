@@ -48,4 +48,4 @@ The picture above was taken eighteen days after the one below it.  The only topi
 
 [Pulls at this repository](https://github.com/serviceanimals/Harper/pulls)
 
-Harper README.md EOF -->
+Harper README.md EF -->
