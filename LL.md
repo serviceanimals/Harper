@@ -4,6 +4,12 @@
 
 [![imgs/20201016_092130.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)
 
+[serviceanimals/](https://serviceanimals.github.io/)[Harper](https://serviceanimals.github.io/Harper)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](LL.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](MQS.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
+
 Language Learner
 A dog can be a good language learner.
 Do you speak in a couple of human languages with your dog?

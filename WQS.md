@@ -7,6 +7,11 @@
 [![imgs/20201016_092130.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)
 
 [serviceanimals/](https://serviceanimals.github.io/)[Harper](https://serviceanimals.github.io/Harper)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](LL.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](MQS.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
+
 
 My personal water quality specialist (water offered by me; distilled, +filtered well water, +onTapWater), Service dog [Natolie Harper](https://serviceanimals.github.io/Harper/) was shot dead with two slugs while working at my side on December 1st 2020 at 4:30 pm by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
 
