@@ -2,7 +2,7 @@
 
 [![imgs/20200728_105448.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)
 
-[Natalie Harper](https://github.com/serviceanimals/Harper/)
+[Natalie Harper](https://serviceanimals.github.io/Harper/)
 
 [![imgs/20201016_092130.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)
 
