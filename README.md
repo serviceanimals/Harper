@@ -1,11 +1,4 @@
 <link rel="prerender" href="https://serviceanimals.github.io/Harper/">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "{{site.google_ad_client}}",
-    enable_page_level_ads: true
-  });
-</script>
 
 [![imgs/20200728_105448.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)
 
