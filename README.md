@@ -44,10 +44,6 @@ The picture above was taken eighteen days after the one below it.  The only topi
 
 [![imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
 
-[![Harper freeway](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20221013-211722.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200814_142329.mp4)
-
-[![Harper freeway](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/Screenshot_20221013-211722.png)](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/vids/20200814_142329.mp4)
-
 <!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
 
 [Pulls at this repository](https://github.com/serviceanimals/Harper/pulls)
