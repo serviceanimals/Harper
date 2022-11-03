@@ -12,6 +12,8 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
+[![imgs/20201014_102326.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201014_102326.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201014_102326.jpg)
+
 # Food Quality Specialist
 
 Puppies are naturally born genetically programmed food quality specialists. Why?

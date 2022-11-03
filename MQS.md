@@ -15,6 +15,8 @@
 [![MQS Harper](https://github.com/serviceanimals/Harper/raw/master/imgs/MQSHarper.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200809_202745.mp4)
 Please tap picture in order to download a short video.
 
+[![imgs/20201014_102326.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201014_102326.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201014_102326.jpg)
+
 # Meat Quality Specialist
 
 Puppies are naturally born genetically programmed meat quality specialists. Why?
