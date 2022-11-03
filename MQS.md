@@ -11,7 +11,7 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-[![MQS Harper](https://github.com/serviceanimals/Harper/raw/master/imgs/MQSHarper.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200809_202745.mp4)
+[![MQS Harper](https://github.com/serviceanimals/Harper/raw/master/imgs/MQSHarper.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200809_202745.mp4)
 Tap picture in order to download a short video.
 
 # Meat Quality Specialist
