@@ -10,8 +10,11 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-Milk Quality Specialist
+# Milk Quality Specialist
+
 Puppies are naturally born genetically programmed milk quality specialists. Why?
-Music Quality Specialist
+
+# Music Quality Specialist
+
 Puppies are naturally born with keener hearing than humans. Why?
 <!-- MQS.md EF -->
