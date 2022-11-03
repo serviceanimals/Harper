@@ -12,6 +12,7 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
+# Water Quality Specialist
 
 My personal water quality specialist (water offered by me; distilled, +filtered well water, +onTapWater), Service dog [Natalie Harper](https://serviceanimals.github.io/Harper/) was shot dead with two slugs while working at my side on December 1st 2020 at 4:30 pm by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
 
