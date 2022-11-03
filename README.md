@@ -1,4 +1,8 @@
 <link rel="prerender" href="https://serviceanimals.github.io/Harper/">
+     <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9908897802149349"
+     crossorigin="anonymous"></script>
+     </head>
 
 [![imgs/20200728_105448.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_105448.jpg)
 
