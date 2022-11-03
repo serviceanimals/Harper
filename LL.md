@@ -10,13 +10,21 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-Language Learner
+# Language Learner
+
 A dog can be a good language learner.
+
 Do you speak in a couple of human languages with your dog?
-For example sit:
+
+For example the command sit in a few different languages.
+
 Do you conjugate verbs in other languages with your dog?
-For example be:
+
+For example with the verbs be, do and have:
+
 in future tense
+
 in past tense
+
 in present tense
 <!-- LL.md EF -->
