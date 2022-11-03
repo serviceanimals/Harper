@@ -19,6 +19,12 @@
 [![Harper freeway](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20221013-211722.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200814_142329.mp4)
 Please tap picture above in order to download a short video.
 
+[![imgs/Screenshot_20200807-193125.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)
+
+[![imgs/Screenshot_20200807-193407.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193407.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193407.png)
+
+[![imgs/Screenshot_20200807-204420.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-204420.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-204420.png)
+
 <!-- [![Harper freeway](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/Screenshot_20221013-211722.png)](https://raw.githubusercontent.com/serviceanimals/Harper/master/imgs/vids/20200814_142329.mp4)
 
 [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
