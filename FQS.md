@@ -13,8 +13,6 @@
 
 # Food Quality Specialist
 
-# Milk Quality Specialist
-
-Puppies are naturally born genetically programmed milk quality specialists. Why?
+Puppies are naturally born genetically programmed food quality specialists. Why?
 
 <!-- FQS.md EF -->
