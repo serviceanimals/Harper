@@ -10,6 +10,6 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-Mobilty Aid
+Mobility Aid
 A dog can be a great mobility aid that is much better than a pair of crushes, a walking stick and a wheelchair.
-<!-- MA.md EOF -->
+<!-- MA.md EF -->

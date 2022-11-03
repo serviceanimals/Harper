@@ -19,4 +19,4 @@ For example be:
 in future tense
 in past tense
 in present tense
-<!-- LL.md EOF -->
+<!-- LL.md EF -->
