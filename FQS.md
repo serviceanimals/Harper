@@ -11,6 +11,10 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-Mobility Aid
-A dog can be a great mobility aid that is much better than a pair of crushes, a walking stick and a wheelchair.
-<!-- MA.md EF -->
+# Food Quality Specialist
+
+# Milk Quality Specialist
+
+Puppies are naturally born genetically programmed milk quality specialists. Why?
+
+<!-- FQS.md EF -->

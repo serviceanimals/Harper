@@ -7,6 +7,7 @@
 [![imgs/20201016_092130.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201016_092130.jpg)
 
 [serviceanimals/](https://serviceanimals.github.io/)[Harper](https://serviceanimals.github.io/Harper)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[FQS](FQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[LL](LL.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[MQS](MQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
@@ -22,7 +23,7 @@ Why was Natalie Harper a great water quality specialist?
 
 I have used the Flint MTA in Michigan USA regularly since 2013 with my service dogs as mobility aids, including these dogs being [water quality specialists](https://serviceanimals.github.io/Harper/WQS).  On December 1st at 4pm I was attempting to transfer buses downtown with our amazing friend [service dog Natalie Harper](https://serviceanimals.github.io/Harper/).  I was denied entry for no valid reason.  Other than discrimination, paid leave (Factoring paid leave into Standing && Intimidating smaller stanced sentient being) comes to mind as well as simple, "You can walk with your dog, but I cannot!"
 
-Service dog Natalie Harper's primary task was mobility aid.  The events that happened at the Flint MTA downtown when I was experiencing them felt completely unreal and detached from points in time.  The [Flint MTA](https://mtaflint.org/) should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Natalie Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
+Service dog Natalie Harper's primary tasks were mobility aid, food and water quality specialist.  The events that happened at the Flint MTA downtown when I was experiencing them felt completely unreal and detached from points in time.  The [Flint MTA](https://mtaflint.org/) should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Natalie Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
 
 ## She was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.  Why was my water quality specialist [Service Dog Natalie Harper](https://serviceanimals.github.io/Harper) shot dead by Flint City Police in Michigan USA?
 
