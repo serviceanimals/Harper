@@ -19,7 +19,7 @@
 [![imgs/20200728_092823.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)
 
 [![Harper freeway](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20221013-211722.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200814_142329.mp4)
-Please tap picture above in order to download a short video.
+Please tap the picture above in order to download a short video.
 
 [![imgs/Screenshot_20200807-193125.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)
 
