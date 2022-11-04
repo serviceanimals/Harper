@@ -18,7 +18,7 @@
 
 [![imgs/20200728_092823.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)
 
-<video src = "imgs/vids/20200505_152314.mp4" controls width="326"> Your browser does not support embedded video through HTML5.  </video>
+<video src = "imgs/vids/20200505_152314.mp4" controls width="328"> Your browser does not support embedded video through HTML5.  </video>
 
 <video src = "imgs/vids/20200814_142329.mp4" controls width="328"> Your browser does not support embedded video through HTML5.  </video>
 
