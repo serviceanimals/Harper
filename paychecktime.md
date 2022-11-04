@@ -18,9 +18,9 @@
 
 [![imgs/20200728_092823.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)
 
-<video src = "imgs/vids/20200505_152314.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+<video src = "imgs/vids/20200505_152314.mp4" controls width="250"> Your browser does not support embedded video through HTML5.  </video>
 
-<video src = "imgs/vids/20200814_142329.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+<video src = "imgs/vids/20200814_142329.mp4" controls width="500"> Your browser does not support embedded video through HTML5.  </video>
 
 <!-- [![Harper freeway](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20221013-211722.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200814_142329.mp4)
 Please tap the picture above in order to download a short video.  -->
