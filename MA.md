@@ -13,6 +13,8 @@
 
 [![imgs/20200818_134053.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200818_134053.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200818_134053.jpg)
 
+<video src = "imgs/vids/20200802_154057.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+
 # Mobility Aid
 
 A dog can be a great mobility aid that can be much better than a pair of crutches, a walking stick and a wheelchair.
