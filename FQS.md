@@ -13,7 +13,7 @@
 
 [![imgs/20201014_102326.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20201014_102326.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20201014_102326.jpg)
 
-<video src = "imgs/vids/20200809_202745.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+<video src = "imgs/vids/20200809_202745.mp4" controls width="328"> Your browser does not support embedded video through HTML5.  </video>
 
 # Food Quality Specialist
 

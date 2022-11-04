@@ -11,7 +11,7 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-<video src = "imgs/vids/20200809_202745.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+<video src = "imgs/vids/20200809_202745.mp4" controls width="328"> Your browser does not support embedded video through HTML5.  </video>
 <!-- [![MQS Harper](https://github.com/serviceanimals/Harper/raw/master/imgs/MQSHarper.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/vids/20200809_202745.mp4)
 Please tap the picture above in order to download a short video.  -->
 
