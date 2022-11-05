@@ -17,5 +17,5 @@
 
 # Mobility Aid
 
-A dog can be a great mobility aid that can be much better than a pair of crutches, a walking stick and a wheelchair.
+A dog can be a great mobility aid.
 <!-- Harper MA.md EF -->
