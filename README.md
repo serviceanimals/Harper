@@ -45,8 +45,8 @@ The picture above was taken eighteen days after the one below it.  The only topi
 
 [![imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
 
-<!-- [Issues at this repository](https://github.com/serviceanimals/Harper/issues)
+[Issues at this git repository](https://github.com/serviceanimals/Harper/issues)
 
-[Pulls at this repository](https://github.com/serviceanimals/Harper/pulls)
+[Pulls requests at this git repository](https://github.com/serviceanimals/Harper/pulls)
 
-Harper README.md EF -->
+<!-- Harper README.md EF -->
