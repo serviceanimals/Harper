@@ -44,4 +44,4 @@ Natalie Harper and her young canine companion [Smiley](https://serviceanimals.gi
 
 [Pulls at this repository](https://github.com/serviceanimals/Harper/pulls)
 
-Harper README.md EF -->
+Harper WQS.md EF -->
