@@ -47,6 +47,6 @@ The picture above was taken eighteen days after the one below it.  The only topi
 
 [Issues at this git repository](https://github.com/serviceanimals/Harper/issues)
 
-[Pulls requests at this git repository](https://github.com/serviceanimals/Harper/pulls)
+[Pull requests at this git repository](https://github.com/serviceanimals/Harper/pulls)
 
 <!-- Harper README.md EF -->
