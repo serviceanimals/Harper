@@ -19,7 +19,7 @@ Do you speak in more than one human language with your dog?
 
 For example the command sit in different languages.
 
-Do you conjugate verbs in other languages with your dog?
+Do you conjugate verbs in different languages with your dog?
 
 For example with the verbs be, do and have:
 
