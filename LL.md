@@ -23,9 +23,9 @@ Do you conjugate verbs in different languages with your dog?
 
 For example with the verbs be, do and have:
 
-in the future tense
+in the future tenses
 
-in the past tense
+in the past tenses
 
-in the present tense
+in the present tenses
 <!-- Harper LL.md EF -->
