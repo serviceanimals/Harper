@@ -17,7 +17,7 @@ A dog can be a good language learner.
 
 Do you speak in more than one human language with your dog?
 
-For example the command sit in a few different languages.
+For example the command sit in different languages.
 
 Do you conjugate verbs in other languages with your dog?
 
