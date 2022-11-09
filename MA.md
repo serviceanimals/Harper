@@ -17,5 +17,5 @@
 
 # Mobility Aid
 
-A dog can be a great mobility aid.
+A dog can be a great mobility aid that can be wheelchair and similar.
 <!-- Harper MA.md EF -->
