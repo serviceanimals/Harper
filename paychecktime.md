@@ -31,6 +31,8 @@ Please tap the picture above in order to download a short video.  -->
 
 [![imgs/Screenshot_20200807-193125.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)
 
+Service Dog Natalie Harper working at the Flint MTA Plaza on August 7th 2020. 
+
 [![imgs/Screenshot_20200807-193407.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193407.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193407.png)
 
 [![imgs/Screenshot_20200807-204420.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-204420.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-204420.png)
