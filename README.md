@@ -13,7 +13,7 @@
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[paychecktime](paychecktime.md)
 
-My personal [water quality specialist](WQS.md) (water offered by me; distilled, +filtered well water, +onTapWater), Service dog Natalie Harper was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the bus terminal downtown [MTA](https://mtaflint.org/).  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
+My personal [water quality specialist](WQS.md) (water offered by me; distilled, +filtered well water, +onTapWater), Service dog Natalie Harper was shot dead with two slugs while working at my side at 202012011630 by Flint City Police while I was using the MTA bus terminal downtown.  She is dead.  Shot twice, neck and pelvis.  She was a good dog.  She was an exceptional coder and skilled worker who was killed while working.  Can you please assist?
 
 Why was Natalie Harper a great water quality specialist?
 1. She would not forge data like city employed personnel did!  Why were the forging personnel set free @nocost?  Is this why my friend canine Natalie Harper is not among us?
@@ -21,9 +21,9 @@ Why was Natalie Harper a great water quality specialist?
 
 ## She was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.  Why was my water quality specialist [Service Dog Natalie Harper](https://serviceanimals.github.io/Harper) shot dead by Flint City Police in Michigan USA?
 
-I have used the Flint MTA in Michigan USA regularly since 2013 with my service dogs as mobility aids, including these dogs being [water quality specialists](https://serviceanimals.github.io/Harper/WQS).  On December 1st at 4pm I was attempting to transfer buses downtown with our amazing friend [service dog Natalie Harper](https://serviceanimals.github.io/Harper/).  I was denied entry for no valid reason.  Other than discrimination, paid leave (Factoring paid leave into Standing && Intimidating smaller stanced sentient being) comes to mind as well as simple, "You can walk with your dog, but I cannot!"
+I have used the Flint MTA in Michigan USA regularly since 2013 with my service dogs, including these dogs being schooled as [water quality specialists](https://serviceanimals.github.io/Harper/WQS).  On December 1st at 4pm I was attempting to transfer buses downtown with our amazing friend [service dog Natalie Harper](https://serviceanimals.github.io/Harper/).  I was denied entry for no valid reason.  Other than discrimination, paid leave (Factoring paid leave into Standing && Intimidating smaller stanced sentient being) comes to mind as well as simple, "You can walk with your dog, but I cannot!"
 
-Service dog Natalie Harper's primary tasks were mobility aid, food and water quality specialist.  The events that happened at the Flint MTA downtown when I was experiencing them felt completely unreal and detached from points in time.  The [Flint MTA](https://mtaflint.org/) should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Natalie Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
+Service dog Natalie Harper's primary tasks were mobility aid, food and water quality specialist.  The events that happened at the Flint MTA downtown when I was experiencing them felt completely unreal and detached from points in time.  The Flint MTA should have this entire event on multiple surveillance cameras as well as my many years of commuting by bus with my service dogs in Flint Michigan, USA.  Natalie Harper was shot across the street after I was told to leave the MTA.  We had left the transit center as requested.
 
 ## She was shot dead with two discharges while working at my side at 202012011630 by Flint City Police, Michigan, USA.  Why was my water quality specialist [Service Dog Natalie Harper](https://serviceanimals.github.io/Harper) shot dead by Flint City Police in Michigan USA?
 
@@ -44,6 +44,12 @@ The picture above was taken five days after the one below it.  The only topicals
 The picture above was taken eighteen days after the one below it.  The only topicals that are being used are completely natural: sunlight, rain and running.  [Food as medicine](https://serviceanimals.github.io/FaM/) plus her own canine companion are employed in this battle to control Natalie Harper's mange.  Do you see the improvement in Natalie Harper's coat?
 
 [![imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
+
+Natalie Harper and her young canine companion [Chopper](https://serviceanimals.github.io/Chopper/) on April 24 2020.
+
+[![imgs/gifs/202011121035.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)
+
+Natalie Harper and her younger canine companion [Smiley](https://serviceanimals.github.io/Smiley/) on November 12 2020 at 1035.
 
 [Issues at this git repository](https://github.com/serviceanimals/Harper/issues)
 
