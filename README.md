@@ -45,6 +45,12 @@ The picture above was taken eighteen days after the one below it.  The only topi
 
 [![imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Chopper.and.Harper.nibbling.at.each.others.mange20200424.png)
 
+Natalie Harper and her young canine companion [Chopper](https://serviceanimals.github.io/Chopper/) on April 24 2020.
+
+[![imgs/gifs/202011121035.gif](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)](https://github.com/serviceanimals/Harper/raw/master/imgs/gifs/202011121035.gif)
+
+Natalie Harper and her younger canine companion [Smiley](https://serviceanimals.github.io/Smiley/) on November 12 2020 at 1035.
+
 [Issues at this git repository](https://github.com/serviceanimals/Harper/issues)
 
 [Pull requests at this git repository](https://github.com/serviceanimals/Harper/pulls)
