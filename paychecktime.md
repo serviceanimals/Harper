@@ -18,6 +18,8 @@
 
 [![imgs/20200728_092823.jpg](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)](https://github.com/serviceanimals/Harper/raw/master/imgs/20200728_092823.jpg)
 
+Service Dog Natalie Harper working at the Flint MTA Plaza on July 28th 2020.  Even being able to work can stimulate the work effectiveness of a service dog, and can be like a paycheck.
+
 <video src = "imgs/vids/20200814_142329.mp4" controls width="328"> Your browser does not support embedded video through HTML5.  </video>
 
 <video src = "imgs/vids/20200505_152314.mp4" controls width="328"> Your browser does not support embedded video through HTML5.  </video>
@@ -30,8 +32,6 @@
 Please tap the picture above in order to download a short video.  -->
 
 [![imgs/Screenshot_20200807-193125.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193125.png)
-
-Service Dog Natalie Harper working at the Flint MTA Plaza on August 7th 2020.  Even being able to work can stimulate the work effectiveness of a service dog, and can be like a paycheck.
 
 [![imgs/Screenshot_20200807-193407.png](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193407.png)](https://github.com/serviceanimals/Harper/raw/master/imgs/Screenshot_20200807-193407.png)
 
